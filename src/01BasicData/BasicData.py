@@ -5,7 +5,7 @@
 
 
 ########################################
-# basic syntax for functions
+# basic syntax for functions: how to define a function
 # `func` is the function name, `arg1` and `arg2` are inputs (arguments)
 def func(arg1, arg2):
     # this is the function body
